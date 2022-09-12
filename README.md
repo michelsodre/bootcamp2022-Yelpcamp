@@ -1,6 +1,7 @@
 # bootcamp2022-Yelpcamp
 
-Product of "The Web Developer Bootcamp 2022" - Author Colt Steele - 
+Product of "The Web Developer Bootcamp 2022" - Author Colt Steele 
+
 https://www.udemy.com/course/the-web-developer-bootcamp/
 
 -- Technologies and languages ​​used:
@@ -13,11 +14,14 @@ https://www.udemy.com/course/the-web-developer-bootcamp/
 - Mapbox
 
 --npm
+
 -passport - Authentication
+
 -JOI - Data validation
 
 -----------------------------------------------------
-Produto do "The Web Developer Bootcamp 2022" - Autor Colt Steele - 
+Produto do "The Web Developer Bootcamp 2022" - Autor Colt Steele 
+
 https://www.udemy.com/course/the-web-developer-bootcamp/
 
 --Tecnologias e linguagens utilizadas:
@@ -30,5 +34,7 @@ https://www.udemy.com/course/the-web-developer-bootcamp/
 - Mapbox
 
 --npm
+
 -passport - Autenticação
+
 -JOI - Validação de dados
