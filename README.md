@@ -15,9 +15,9 @@ https://www.udemy.com/course/the-web-developer-bootcamp/
 
 --npm
 
--passport - Authentication
+- passport - Authentication
 
--JOI - Data validation
+- JOI - Data validation
 
 -----------------------------------------------------
 Produto do "The Web Developer Bootcamp 2022" - Autor Colt Steele 
@@ -35,6 +35,6 @@ https://www.udemy.com/course/the-web-developer-bootcamp/
 
 --npm
 
--passport - Autenticação
+- passport - Autenticação
 
--JOI - Validação de dados
+- JOI - Validação de dados
